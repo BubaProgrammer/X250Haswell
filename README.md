@@ -57,10 +57,10 @@ Please note that the provided links are for illustrative purposes only. Replace 
 
 ## FAQ
 
-[Q] Why Display and graphics acceleration is not working?
+[Q] Why Display and graphics acceleration is not working?\
 [A] Make sure you use a Big Sur (shhh. still making efi for other versions) 
 
-[Q] Where i can report an problem?
+[Q] Where i can report an problem?\
 [A] In Issues section
 
 
