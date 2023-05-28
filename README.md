@@ -16,6 +16,27 @@ To install macOS on your ThinkPad X250, follow these steps:
 4. Boot from the macOS installation media and proceed with the installation process.
 5. After the installation is complete, follow any post-installation steps or fixes specific to the ThinkPad X250 to ensure full functionality.
 
+## Working/Not Working
+
+- **Working:**
+  - Display and graphics acceleration
+  - Audio
+  - Wi-Fi and Bluetooth (may require a compatible Broadcom or Intel Wi-Fi card replacement)
+  - USB ports
+  - Battery status
+  - Sleep and wake functionality
+  - Trackpad and TrackPoint
+  - Function keys and keyboard shortcuts
+  - Ethernet
+  - Webcam
+  - SD card reader
+
+- **Not Working:**
+  - Fingerprint reader
+  - Some advanced power management features
+
+Please note that this list may vary depending on the specific macOS version and the configuration of your ThinkPad X250 Hackintosh.
+
 ## Resources
 
 Here are some useful resources for Hackintoshing the ThinkPad X250:
