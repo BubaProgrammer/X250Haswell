@@ -20,20 +20,28 @@ To install macOS on your ThinkPad X250, follow these steps:
 
 - **Working:**
   - Display and graphics acceleration
-  - Audio
   - Wi-Fi and Bluetooth (may require a compatible Broadcom or Intel Wi-Fi card replacement)
   - USB ports
   - Battery status
   - Sleep and wake functionality
-  - Trackpad and TrackPoint
-  - Function keys and keyboard shortcuts
   - Ethernet
-  - Webcam
-  - SD card reader
+  - HDMI Monitor
 
 - **Not Working:**
   - Fingerprint reader
   - Some advanced power management features
+  - VGA
+  - Airdrop
+
+- **In progress:**
+  - Audio
+  - Trackpad and TrackPoint
+  - Function keys and keyboard shortcuts
+
+- **Not Tested:**
+  - Webcam
+  - SD card reader
+
 
 Please note that this list may vary depending on the specific macOS version and the configuration of your ThinkPad X250 Hackintosh.
 
@@ -41,11 +49,20 @@ Please note that this list may vary depending on the specific macOS version and 
 
 Here are some useful resources for Hackintoshing the ThinkPad X250:
 
-- [Link to guide or forum thread 1](https://www.example.com/guide1)
-- [Link to guide or forum thread 2](https://www.example.com/guide2)
-- [Link to kext repository](https://www.example.com/kexts)
+- [Dortaria Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+- [Dortaria Post Install](https://dortania.github.io/OpenCore-Post-Install/)
+- [OC Auxiliary Tools](https://github.com/ic005k/OCAuxiliaryTools)
 
 Please note that the provided links are for illustrative purposes only. Replace them with actual relevant links to guides, forum threads, or repositories specific to ThinkPad X250 Hackintosh.
+
+## FAQ
+
+[Q] Why Display and graphics acceleration is not working?
+[A] Make sure you use a Big Sur (shhh. still making efi for other versions) 
+
+[Q] Where i can report an problem?
+[A] In Issues section
+
 
 ## Contributing
 
